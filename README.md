@@ -1,1 +1,2 @@
-# Customer-Segmentation-via-K-means
+# Customer-segmentation-via-K-means
+To become more profitable, you need to be able to differentiate your customers to more effectively satisfy the needs of the different segments. But how do you segment your customers ? The answer lies in this notebook !  Even if you have a highly-targeted customer demographic in your business, there are still variations between individual customers. Recognising these differences will allow you to tailor your approach to the needs of varying customer segments and allow you to effectively serve a wider group of people.
