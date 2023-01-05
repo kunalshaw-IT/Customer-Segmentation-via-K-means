@@ -15,4 +15,4 @@ There are three primary goals of this kernel.
 
 1. Do a **exploratory analysis** of the mall customer segmentation dataset
 2. Do an **visualization analysis**of the mall customer segmentation dataset
-3. **Segmentation**: What are the segment which lies within the customer data and how are we going to treat them .
+3. **Segmentation**: What are the segment which lies within the customer data and how are we going to treat them
